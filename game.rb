@@ -7,7 +7,6 @@ require_relative "lib/deck"
 #GAME START
 
 # Your game logic here.
-# puts "fuck my life"
 
 fifty_two_effing_cards = Deck.new
 
