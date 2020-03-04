@@ -4,7 +4,7 @@ Let's make an application that can deal cards, called High Card Dealer. It's a 5
 
 ```no-highlight
 et get high-card-dealer
-cd high-card-dealer
+cd high-card-dealer  
 ```
 
 ## Overview of the Deck of Cards
