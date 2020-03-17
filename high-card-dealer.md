@@ -13,11 +13,11 @@ Each card in our game should have a suit and a rank. e.g. 3 (rank) of hearts (su
 
 There are four suits, and 13 ranks, including face cards. All card can be given a value based on its rank. For example, a "4" card is greater than a "2" card. A "Jack" card is greater than a "10" card. "Ace" is greater than "Queen".
 
-The value of a card is based on its rank. The value of cards with a number is simply that number i.e. a `4 ♥` card's value is four, `6 ♠` card's value is six. Face cards have custom values: `J` cards have a value of 11, `Q` cards have a value of 12, `K` cards have a value of 13, `A` cards have a value of 14.
+The value of a card is based on its rank. The value of cards with a number is simply that number i.e. a `4 ♥` card's value is four, `6 ♠` card's value is six. Face cards have custom values: `J` cards have a value of 11, `Q` cards have a value of 12, `K` cards have a value of 13, `A` cards have a value of 14. 
 
-Each of the ranks and suits can be found below.
+Each of the ranks and suits can be found below. 
 
-SUITS = ['♦', '♣', '♠', '♥']
+SUITS = ['♦', '♣', '♠', '♥'] 
 RANKS = [2, 3, 4, 5, 6, 7, 8, 9, 10, 'J', 'Q', 'K', 'A']
 
 ## Instructions
