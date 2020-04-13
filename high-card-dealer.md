@@ -88,7 +88,7 @@ Good luck! Know that implementations may vary.
 If you find that you have extra time, feel free to tackle these optional user stories as well.
 
 #### Optional User Stories
-
+  
 This card game is very similar to the classic card game War.
 
 - Create RSpec tests for each of our classes and their methods. Note that if your methods are too long, or if they have too much logic, they may be more difficult to test. As such, you may need to refactor some of your code to create DRYer methods.
