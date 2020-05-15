@@ -56,7 +56,7 @@ Player 1 wins the game!
 ```
 
 ## Getting Started
-
+   
 Because running `ruby game.rb` starts the game, you should have some, if not a majority of your logic in this file, such as a creating your `Deck` and `Hand` instances. You are encouraged to brainstorm, or better yet, discuss with others, how to get started.
 
 Two classes have been created for you: `Card` and `Deck`. Make sure to view all of the files that have been provided before beginning the assignment.
