@@ -25,7 +25,7 @@ RANKS = [2, 3, 4, 5, 6, 7, 8, 9, 10, 'J', 'Q', 'K', 'A']
 Create a command-line game where 52 cards are created, and two players are dealt four cards randomly from the deck. The player that has the highest total value of cards in their hand wins the game. The game should output information to the command line accordingly, so that we know which player won the game and why.
 
 Running `ruby game.rb` should run the game to completion. No user input is needed for this application.
-
+ 
 ## Order of the Game
 
 - A user can start the game by running `ruby game.rb`.
