@@ -67,7 +67,7 @@ Cards can be dealt i.e. removed from a deck and given to a player. We suggest cr
 
 We suggest the following criteria for your application, though your own app may slightly differ.
 
-### Card
+### Card 
 
 - A `Card` object should be initialized with `rank` and `suit`. This information should be stored in state.
 - There should be a `#value` method on a `Card` object, that returns the value of the card.
