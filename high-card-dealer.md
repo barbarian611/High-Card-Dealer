@@ -1,5 +1,5 @@
 Let's make an application that can deal cards, called High Card Dealer. It's a 52-card deck game where the player with the highest total value of cards wins the game.
-
+ 
 ### Getting Set Up.   
   
 ```no-highlight
