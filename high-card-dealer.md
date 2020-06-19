@@ -20,7 +20,7 @@ Each of the ranks and suits can be found below.
 SUITS = ['♦', '♣', '♠', '♥'] 
 RANKS = [2, 3, 4, 5, 6, 7, 8, 9, 10, 'J', 'Q', 'K', 'A']
 
-## Instructions
+## Instructions 
 
 Create a command-line game where 52 cards are created, and two players are dealt four cards randomly from the deck. The player that has the highest total value of cards in their hand wins the game. The game should output information to the command line accordingly, so that we know which player won the game and why.
 
