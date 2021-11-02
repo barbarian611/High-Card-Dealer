@@ -3,7 +3,7 @@ Let's make an application that can deal cards, called High Card Dealer. It's a 5
 ### Getting Set Up.   
    
 ```no-highlight
-et get high-card-dealer
+et get high-card-dealer 
 cd high-card-dealer  
 ``` 
   
