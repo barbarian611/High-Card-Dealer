@@ -6,7 +6,7 @@ Let's make an application that can deal cards, called High Card Dealer. It's a 5
 et get high-card-dealer 
 cd high-card-dealer  
 ``` 
-  
+   
 ## Overview of the Deck of Cards
 
 Each card in our game should have a suit and a rank. e.g. 3 (rank) of hearts (suit).
